@@ -1,5 +1,4 @@
-/* Опишите в этом файле все keyframes для проекта и стили анимаций иконки Like.
-*/
+
 
 .theme-menu__button:disabled::before {
     content: '▶';

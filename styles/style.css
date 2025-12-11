@@ -1,7 +1,4 @@
-/* Здесь вы напишете основную часть стилей страницы.
 
-
-*/
 
 @supports (-webkit-text-stroke: 1px #fff) or (text-stroke: 1px #fff) {
   .card__image-label {
